@@ -1,0 +1,7 @@
+HISTORICO DE PARTIDAS
+Jogador 1 Jogador 2
+        1         0
+
+ULTIMA PARTIDA
+Jogador 1 Jogador 2
+        5         4
